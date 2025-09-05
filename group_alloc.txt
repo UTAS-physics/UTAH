@@ -1,0 +1,41 @@
+Class 1
+Question 1: First19 Last19, First3 Last3, First10 Last10, First7 Last7
+Question 2: First8 Last8, First9 Last9, First2 Last2, First11 Last11
+Question 3: First6 Last6, First4 Last4, First14 Last14, First15 Last15
+Question 4: First13 Last13, First12 Last12, First18 Last18, First16 Last16
+Question 5: First20 Last20, First5 Last5, First17 Last17, First1 Last1
+
+Class 2
+Question 1: First11 Last11, First13 Last13, First6 Last6, First4 Last4
+Question 2: First10 Last10, First12 Last12, First7 Last7, First9 Last9
+Question 3: First14 Last14, First1 Last1, First20 Last20, First17 Last17
+Question 4: First16 Last16, First2 Last2, First15 Last15, First3 Last3
+Question 5: First8 Last8, First18 Last18, First5 Last5, First19 Last19
+
+Class 3
+Question 1: First14 Last14, First5 Last5, First18 Last18, First9 Last9
+Question 2: First15 Last15, First16 Last16, First3 Last3, First11 Last11
+Question 3: First6 Last6, First2 Last2, First7 Last7, First1 Last1
+Question 4: First19 Last19, First8 Last8, First17 Last17, First10 Last10
+Question 5: First13 Last13, First20 Last20, First4 Last4, First12 Last12
+
+Class 4
+Question 1: First2 Last2, First1 Last1, First13 Last13, First14 Last14
+Question 2: First19 Last19, First11 Last11, First15 Last15, First16 Last16
+Question 3: First6 Last6, First5 Last5, First7 Last7, First4 Last4
+Question 4: First10 Last10, First12 Last12, First20 Last20, First3 Last3
+Question 5: First9 Last9, First8 Last8, First17 Last17, First18 Last18
+
+Class 5
+Question 1: First7 Last7, First2 Last2, First8 Last8, First18 Last18
+Question 2: First6 Last6, First14 Last14, First13 Last13, First15 Last15
+Question 3: First9 Last9, First12 Last12, First11 Last11, First19 Last19
+Question 4: First1 Last1, First4 Last4, First5 Last5, First3 Last3
+Question 5: First20 Last20, First16 Last16, First17 Last17, First10 Last10
+
+Class 6
+Question 1: First15 Last15, First5 Last5, First1 Last1, First17 Last17
+Question 2: First19 Last19, First13 Last13, First18 Last18, First9 Last9
+Question 3: First12 Last12, First6 Last6, First11 Last11, First20 Last20
+Question 4: First8 Last8, First3 Last3, First16 Last16, First7 Last7
+Question 5: First4 Last4, First10 Last10, First2 Last2, First14 Last14
