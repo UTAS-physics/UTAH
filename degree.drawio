@@ -1,0 +1,583 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+  <diagram name="Page-1" id="IArdyj2PRmKVCvWFIM7Y">
+    <mxGraphModel dx="2717" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-223" edge="1" parent="1" source="3IqrawyuRhJTKmYJm_Wf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" target="T16UfMwYr4E7ONNLE4XN-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;First-year subjects&lt;/div&gt;" vertex="1">
+          <mxGeometry height="410" width="1040" x="600" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-2" parent="3IqrawyuRhJTKmYJm_Wf-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA101: Physics 1A" vertex="1">
+          <mxGeometry height="320" width="440" x="40" y="50" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-22" parent="3IqrawyuRhJTKmYJm_Wf-2" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;autosize=0;gradientColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="290" width="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-23" parent="T16UfMwYr4E7ONNLE4XN-22" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rounded=1;" value="" vertex="1">
+          <mxGeometry height="238.21428571428572" width="520.2808429352355" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-24" parent="T16UfMwYr4E7ONNLE4XN-22" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Labs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7 x 3 hour experiments (21 hours)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="271.18" width="218.11" x="210" y="8.82" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-31" parent="T16UfMwYr4E7ONNLE4XN-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Dynamics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31.071428571428573" width="180.64" x="9.36" y="20.714285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-32" parent="T16UfMwYr4E7ONNLE4XN-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Continuum mechanics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.36" y="51.78571428571429" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-47" parent="T16UfMwYr4E7ONNLE4XN-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="- Oscillations and waves" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.36" y="82.85714285714286" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-49" connectable="0" parent="T16UfMwYr4E7ONNLE4XN-22" style="group" value="" vertex="1">
+          <mxGeometry height="190" width="218.11" x="210" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-33" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="01. Measurements" vertex="1">
+          <mxGeometry height="30.931191664857824" width="218.11" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-40" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="02. Hit the target" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="30.92530000930265" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-41" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="03. Bungee egg" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="57.43775000775221" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-42" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="04. Collisions" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="83.95020000620174" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-43" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="05. Rotational dynamics" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="110.46265000465135" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-44" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="06. Elasticity" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="136.9751000031009" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-45" parent="T16UfMwYr4E7ONNLE4XN-49" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="07. Vibrating wire" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="163.48755000155043" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-50" parent="3IqrawyuRhJTKmYJm_Wf-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA101: Physics 1B" vertex="1">
+          <mxGeometry height="320" width="440" x="560.28" y="50" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-51" parent="T16UfMwYr4E7ONNLE4XN-50" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;autosize=0;gradientColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="290" width="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-52" parent="T16UfMwYr4E7ONNLE4XN-51" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rounded=1;" value="" vertex="1">
+          <mxGeometry height="277.91666666666674" width="520.2808429352355" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-53" parent="T16UfMwYr4E7ONNLE4XN-51" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Labs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7 x 3 hour experiments (21 hours)&lt;/div&gt;&lt;div&gt;1 x Presentation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="268.1108" width="218.11" x="210" y="10.300800000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-54" parent="T16UfMwYr4E7ONNLE4XN-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Optics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="180.64" x="9.36" y="24.16666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-55" parent="T16UfMwYr4E7ONNLE4XN-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Relativity&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="180.64" x="9.36" y="60.41666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-56" parent="T16UfMwYr4E7ONNLE4XN-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;-&amp;nbsp;Electromagnetism&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.36" y="96.66666666666669" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-57" connectable="0" parent="T16UfMwYr4E7ONNLE4XN-51" style="group" value="" vertex="1">
+          <mxGeometry height="189.38" width="218.11" x="210" y="90.63" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-58" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="01. Optics" vertex="1">
+          <mxGeometry height="30.830258302583022" width="218.11" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-59" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="02. Diffraction" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="30.824385872430188" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-60" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="03. Radioactivity" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="57.250321560358486" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-61" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="04. Atomic Spectra" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="83.67625724828677" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-62" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="05. Variable voltage" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="110.10219293621513" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-63" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="06. Capacitors" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="136.5281286241434" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-64" parent="T16UfMwYr4E7ONNLE4XN-57" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="07. Frequency dependent circuits" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="162.95406431207167" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-65" parent="T16UfMwYr4E7ONNLE4XN-51" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Atoms &amp;amp; Light&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.360000000000127" y="132.91666666666669" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-32" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Prerequisites" vertex="1">
+          <mxGeometry height="200" width="460" x="40" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-58" parent="3IqrawyuRhJTKmYJm_Wf-32" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="PHY415115 Physics" vertex="1">
+          <mxGeometry height="120" width="170" x="50" y="30" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-59" parent="3IqrawyuRhJTKmYJm_Wf-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="170" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-60" parent="3IqrawyuRhJTKmYJm_Wf-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="170" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-61" parent="3IqrawyuRhJTKmYJm_Wf-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="170" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-62" parent="3IqrawyuRhJTKmYJm_Wf-32" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="MTM415117 Mathematics Methods" vertex="1">
+          <mxGeometry height="130" width="160" x="260" y="30" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-63" parent="3IqrawyuRhJTKmYJm_Wf-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Calculus" vertex="1">
+          <mxGeometry height="30" width="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-64" parent="3IqrawyuRhJTKmYJm_Wf-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Trigonometry" vertex="1">
+          <mxGeometry height="30" width="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-65" parent="3IqrawyuRhJTKmYJm_Wf-62" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="160" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-66" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Prerequisites" vertex="1">
+          <mxGeometry height="400" width="460" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-67" parent="3IqrawyuRhJTKmYJm_Wf-66" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KMA152: Mathematics 1A" vertex="1">
+          <mxGeometry height="120" width="160" x="60" y="240" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-68" parent="3IqrawyuRhJTKmYJm_Wf-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-69" parent="3IqrawyuRhJTKmYJm_Wf-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-70" parent="3IqrawyuRhJTKmYJm_Wf-67" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-71" parent="3IqrawyuRhJTKmYJm_Wf-66" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KMA154: Mathematics 1B" vertex="1">
+          <mxGeometry height="120" width="160" x="260" y="240" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-72" parent="3IqrawyuRhJTKmYJm_Wf-71" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-73" parent="3IqrawyuRhJTKmYJm_Wf-71" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-74" parent="3IqrawyuRhJTKmYJm_Wf-71" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-75" parent="3IqrawyuRhJTKmYJm_Wf-66" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA101: Physics 1A" vertex="1">
+          <mxGeometry height="120" width="160" x="60" y="40" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-76" parent="3IqrawyuRhJTKmYJm_Wf-75" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Kinematics" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-77" parent="3IqrawyuRhJTKmYJm_Wf-75" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Oscillations and waves" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-78" parent="3IqrawyuRhJTKmYJm_Wf-75" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-79" parent="3IqrawyuRhJTKmYJm_Wf-66" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA102: Physics 1B" vertex="1">
+          <mxGeometry height="130" width="160" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-80" parent="3IqrawyuRhJTKmYJm_Wf-79" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-81" parent="3IqrawyuRhJTKmYJm_Wf-79" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-82" parent="3IqrawyuRhJTKmYJm_Wf-79" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Skill/technique" vertex="1">
+          <mxGeometry height="40" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-5" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Prerequisites" vertex="1">
+          <mxGeometry height="400" width="460" x="20" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-6" parent="T16UfMwYr4E7ONNLE4XN-5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KMA152: Mathematics 1A" vertex="1">
+          <mxGeometry height="120" width="160" x="60" y="240" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-7" parent="T16UfMwYr4E7ONNLE4XN-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-8" parent="T16UfMwYr4E7ONNLE4XN-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-9" parent="T16UfMwYr4E7ONNLE4XN-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-10" parent="T16UfMwYr4E7ONNLE4XN-5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KMA154: Mathematics 1B" vertex="1">
+          <mxGeometry height="120" width="160" x="260" y="240" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-11" parent="T16UfMwYr4E7ONNLE4XN-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-12" parent="T16UfMwYr4E7ONNLE4XN-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-13" parent="T16UfMwYr4E7ONNLE4XN-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-14" parent="T16UfMwYr4E7ONNLE4XN-5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA101: Physics 1A" vertex="1">
+          <mxGeometry height="120" width="160" x="60" y="40" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-15" parent="T16UfMwYr4E7ONNLE4XN-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Dynamics" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-16" parent="T16UfMwYr4E7ONNLE4XN-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Continuum mechanics" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-17" parent="T16UfMwYr4E7ONNLE4XN-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Oscillations and waves" vertex="1">
+          <mxGeometry height="30" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-18" parent="T16UfMwYr4E7ONNLE4XN-5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA102: Physics 1B" vertex="1">
+          <mxGeometry height="130" width="160" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-19" parent="T16UfMwYr4E7ONNLE4XN-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Atomic &amp;amp; Nuclear" vertex="1">
+          <mxGeometry height="30" width="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-20" parent="T16UfMwYr4E7ONNLE4XN-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Optics" vertex="1">
+          <mxGeometry height="30" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-21" parent="T16UfMwYr4E7ONNLE4XN-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Electromagnetism and relativity" vertex="1">
+          <mxGeometry height="40" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-224" edge="1" parent="1" source="T16UfMwYr4E7ONNLE4XN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shape=flexArrow;" target="T16UfMwYr4E7ONNLE4XN-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-66" parent="1" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;Second-year subjects&lt;/div&gt;" vertex="1">
+          <mxGeometry height="440" width="1040" x="600" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-67" parent="T16UfMwYr4E7ONNLE4XN-66" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA211: Waves and Kinetic Theory" vertex="1">
+          <mxGeometry height="320" width="440" x="40" y="50" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-68" parent="T16UfMwYr4E7ONNLE4XN-67" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;autosize=0;gradientColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="290" width="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-69" parent="T16UfMwYr4E7ONNLE4XN-68" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rounded=1;" value="" vertex="1">
+          <mxGeometry height="238.21428571428572" width="520.2808429352355" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-70" parent="T16UfMwYr4E7ONNLE4XN-68" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Labs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6 x 3 hour computational workshops (18 hours)&lt;/div&gt;&lt;div&gt;6 x 3 hour experiments (18 hours)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="271.18" width="218.11" x="210" y="8.82" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-71" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Ideal gasses&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31.071428571428573" width="180.64" x="9.36" y="30.004285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-72" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- The kinetic model of gasses&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.36" y="61.07571428571429" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-73" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="- Oscillations" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.36" y="122.14714285714288" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-74" connectable="0" parent="T16UfMwYr4E7ONNLE4XN-68" style="group" value="" vertex="1">
+          <mxGeometry height="190.00244999844958" width="218.11" x="210" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-75" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="01. Adiabatic" vertex="1">
+          <mxGeometry height="30.931191664857824" width="218.11" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-76" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="02. Electron diffraction" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="30.92530000930265" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-77" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="03. Time-domian reflectometry" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="57.43775000775221" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-78" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="04. Ultrasonic" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="83.95020000620174" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-79" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;05. Standing waves&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="110.46265000465135" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-102" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;05. Frank-Hertz&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="136.98000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-201" parent="T16UfMwYr4E7ONNLE4XN-74" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;05. Fourier optics&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26.51244999844956" width="218.11" y="163.49" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-103" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Kinetic theory (4 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-104" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Waves (12 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" y="92.14999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-105" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="- The wave equation" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.360000000000014" y="153.22000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-106" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="- Wave applications" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.67999999999995" y="184.29000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-107" parent="T16UfMwYr4E7ONNLE4XN-68" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="- Schrödinger equation" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.360000000000014" y="215.36" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-82" parent="T16UfMwYr4E7ONNLE4XN-66" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;KYA212: Electromagnetism and Thermodynamics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="440" x="560.28" y="50" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-83" parent="T16UfMwYr4E7ONNLE4XN-82" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;autosize=0;gradientColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="290" width="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-84" parent="T16UfMwYr4E7ONNLE4XN-83" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rounded=1;" value="" vertex="1">
+          <mxGeometry height="277.91666666666674" width="520.2808429352355" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-85" parent="T16UfMwYr4E7ONNLE4XN-83" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Labs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;9 x 3 hour experiments (27 hours)&lt;/div&gt;&lt;div&gt;1 x Presentation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="268.1108" width="218.11" x="210" y="10.300800000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-86" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Laws of thermodynamics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="180.64" x="9.68" y="29.99666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-87" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="- Entropy" vertex="1">
+          <mxGeometry height="36.250000000000014" width="180.64" x="9.68" y="66.24666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-88" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Fields&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.68" y="132.49666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-89" connectable="0" parent="T16UfMwYr4E7ONNLE4XN-83" style="group" value="" vertex="1">
+          <mxGeometry height="189.38" width="218.11" x="210" y="90.63" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-90" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="01. Entropy" vertex="1">
+          <mxGeometry height="30.830258302583022" width="218.11" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-91" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="02. e/m" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="30.824385872430188" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-92" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="03. Hysteresis" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="57.250321560358486" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-93" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="04. Induction" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="83.67625724828677" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-94" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="05. Michelson interferometer" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="110.10219293621513" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-95" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="06. Hall effect&lt;sup&gt;1&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="136.5281286241434" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-96" parent="T16UfMwYr4E7ONNLE4XN-89" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="07. Milikan oil drop&lt;sup&gt;1&lt;/sup&gt;" vertex="1">
+          <mxGeometry height="26.425935687928305" width="218.11" y="162.95406431207167" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-97" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Electrostatics in materials&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.680000000000128" y="168.7466666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-98" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Magnetostatics in vacuum&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.680000000000128" y="205.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-99" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Thermodynamics (4 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-100" parent="T16UfMwYr4E7ONNLE4XN-83" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Electromagnetism (8 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-101" parent="T16UfMwYr4E7ONNLE4XN-66" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;sup&gt;1 &lt;/sup&gt;indicates that the experiments are not yet commissioned" vertex="1">
+          <mxGeometry height="30" width="320" x="710" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-108" parent="1" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;Third-year subjects&lt;/div&gt;" vertex="1">
+          <mxGeometry height="920" width="1290" x="600" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-109" parent="T16UfMwYr4E7ONNLE4XN-108" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA321: Quantum Mechanics" vertex="1">
+          <mxGeometry height="320" width="440" x="40" y="50" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-110" parent="T16UfMwYr4E7ONNLE4XN-109" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;autosize=0;gradientColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="290" width="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-111" parent="T16UfMwYr4E7ONNLE4XN-110" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rounded=1;" value="" vertex="1">
+          <mxGeometry height="238.21428571428572" width="520.2808429352355" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-112" parent="T16UfMwYr4E7ONNLE4XN-110" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Labs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6 x 3 hour computational workshops (18 hours)&lt;/div&gt;&lt;div&gt;1 x 12 hour experiment (12 hours)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="271.18" width="218.11" x="210" y="8.82" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-113" parent="T16UfMwYr4E7ONNLE4XN-110" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="-" vertex="1">
+          <mxGeometry height="31.071428571428573" width="180.64" x="9.36" y="30.004285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-114" parent="T16UfMwYr4E7ONNLE4XN-110" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;-&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.36" y="61.07571428571429" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-115" parent="T16UfMwYr4E7ONNLE4XN-110" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.36" y="122.14714285714288" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-123" parent="T16UfMwYr4E7ONNLE4XN-110" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Foundational quantum (6 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-124" parent="T16UfMwYr4E7ONNLE4XN-110" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Measurement and applications (6 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" y="92.14999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-125" parent="T16UfMwYr4E7ONNLE4XN-110" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-&amp;nbsp;" vertex="1">
+          <mxGeometry height="31.071428571428573" width="190.64" x="9.360000000000014" y="153.22000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-128" parent="T16UfMwYr4E7ONNLE4XN-108" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;&lt;div&gt;KYA320: Advanced Electromagnetism&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="440" x="560.28" y="50" as="geometry">
+            <mxRectangle height="30" width="150" x="40" y="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-129" parent="T16UfMwYr4E7ONNLE4XN-128" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;autosize=0;gradientColor=none;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="290" width="440" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-130" parent="T16UfMwYr4E7ONNLE4XN-129" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;rounded=1;" value="" vertex="1">
+          <mxGeometry height="277.91666666666674" width="520.2808429352355" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-131" parent="T16UfMwYr4E7ONNLE4XN-129" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Labs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 x 12 hour experiments (24 hours)&lt;/div&gt;&lt;div&gt;1 x Presentation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="268.1108" width="218.11" x="210" y="10.300800000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-132" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;- Laws of thermodynamics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="180.64" x="9.68" y="29.99666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-133" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="- Entropy" vertex="1">
+          <mxGeometry height="36.250000000000014" width="180.64" x="9.68" y="66.24666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-134" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Fields&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.68" y="132.49666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-143" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Electrostatics in materials&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.680000000000128" y="168.7466666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-144" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;- Magnetostatics in vacuum&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36.250000000000014" width="190.64" x="9.680000000000128" y="205.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-145" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Thermodynamics (4 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-146" parent="T16UfMwYr4E7ONNLE4XN-129" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Electromagnetism (8 weeks)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="210" y="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-147" parent="T16UfMwYr4E7ONNLE4XN-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;sup&gt;1 &lt;/sup&gt;indicates that the experiments are not yet commissioned" vertex="1">
+          <mxGeometry height="30" width="320" x="940" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-57" parent="T16UfMwYr4E7ONNLE4XN-108" style="swimlane;startSize=0;labelBackgroundColor=none;rounded=1;" value="" vertex="1">
+          <mxGeometry height="200" width="440" x="40" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-202" edge="1" parent="3IqrawyuRhJTKmYJm_Wf-57" source="3IqrawyuRhJTKmYJm_Wf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-28" parent="3IqrawyuRhJTKmYJm_Wf-57" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA305:&amp;nbsp;Stellar and Planetary Physics" vertex="1">
+          <mxGeometry height="140" width="170" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-29" parent="3IqrawyuRhJTKmYJm_Wf-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="170" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-30" parent="3IqrawyuRhJTKmYJm_Wf-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-31" parent="3IqrawyuRhJTKmYJm_Wf-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-43" parent="3IqrawyuRhJTKmYJm_Wf-57" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="KYA306: Galactic and Extragalactic Astrophysics*" vertex="1">
+          <mxGeometry height="140" width="170" x="250" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-44" parent="3IqrawyuRhJTKmYJm_Wf-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="170" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-45" parent="3IqrawyuRhJTKmYJm_Wf-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IqrawyuRhJTKmYJm_Wf-46" parent="3IqrawyuRhJTKmYJm_Wf-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="-" vertex="1">
+          <mxGeometry height="30" width="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-198" parent="3IqrawyuRhJTKmYJm_Wf-57" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Space physics" vertex="1">
+          <mxGeometry height="30" width="160" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-186" parent="T16UfMwYr4E7ONNLE4XN-108" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;sup&gt;*&amp;nbsp;&lt;/sup&gt;indicates subjects that run in odd-numbered years" vertex="1">
+          <mxGeometry height="30" width="320" x="938.11" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-200" parent="T16UfMwYr4E7ONNLE4XN-108" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];strokeColor=inherit;fillColor=inherit;" value="&lt;div&gt;&lt;b&gt;Experiments&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;01. Gamma-ray spectroscopy&lt;/div&gt;&lt;div&gt;02. Lifetime of the muon&lt;/div&gt;&lt;div&gt;03. Microwave waveguides&lt;/div&gt;&lt;div&gt;04. Magnetic resonance&lt;/div&gt;&lt;div&gt;05. X-Rays&lt;/div&gt;&lt;div&gt;06. Solar spectroscopy&lt;/div&gt;&lt;div&gt;07. Zeeman&lt;/div&gt;&lt;div&gt;08. Optical tweezers&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;09. Atomic force microscopy&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;10. Squid&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;11.&lt;sup&gt;&amp;nbsp;&amp;nbsp;&lt;/sup&gt;Pump-probe spectroscopy&lt;sup&gt;1&lt;/sup&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="268.1108" width="218.11" x="1040" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-213" parent="T16UfMwYr4E7ONNLE4XN-108" style="swimlane;startSize=0;labelBackgroundColor=none;rounded=1;" value="" vertex="1">
+          <mxGeometry height="200" width="440" x="560.28" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-214" parent="T16UfMwYr4E7ONNLE4XN-213" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;KYA315: Fluid Mechanics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="250" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-215" parent="T16UfMwYr4E7ONNLE4XN-214" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="170" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-216" parent="T16UfMwYr4E7ONNLE4XN-214" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-217" parent="T16UfMwYr4E7ONNLE4XN-214" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-218" parent="T16UfMwYr4E7ONNLE4XN-213" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;KYA314: Dynamical Systems and Chaos*&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-219" parent="T16UfMwYr4E7ONNLE4XN-218" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="170" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-220" parent="T16UfMwYr4E7ONNLE4XN-218" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-221" parent="T16UfMwYr4E7ONNLE4XN-218" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-222" parent="T16UfMwYr4E7ONNLE4XN-213" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Mathematical physics" vertex="1">
+          <mxGeometry height="30" width="160" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-203" parent="1" style="swimlane;startSize=0;labelBackgroundColor=none;rounded=1;" value="" vertex="1">
+          <mxGeometry height="200" width="440" x="1160" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-204" parent="T16UfMwYr4E7ONNLE4XN-203" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;KYA323: Atomic and Nuclear Physics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="250" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-205" parent="T16UfMwYr4E7ONNLE4XN-204" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="170" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-206" parent="T16UfMwYr4E7ONNLE4XN-204" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-207" parent="T16UfMwYr4E7ONNLE4XN-204" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-208" parent="T16UfMwYr4E7ONNLE4XN-203" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="&lt;div&gt;KYA322: Statistical and Solid State Physics*&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="20" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-209" parent="T16UfMwYr4E7ONNLE4XN-208" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 1" vertex="1">
+          <mxGeometry height="30" width="170" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-210" parent="T16UfMwYr4E7ONNLE4XN-208" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 2" vertex="1">
+          <mxGeometry height="30" width="170" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-211" parent="T16UfMwYr4E7ONNLE4XN-208" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" value="Item 3" vertex="1">
+          <mxGeometry height="30" width="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-212" parent="T16UfMwYr4E7ONNLE4XN-203" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Advanced quantum" vertex="1">
+          <mxGeometry height="30" width="160" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-225" edge="1" parent="1" source="3IqrawyuRhJTKmYJm_Wf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T16UfMwYr4E7ONNLE4XN-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="325" />
+              <mxPoint x="280" y="420" />
+              <mxPoint x="560" y="420" />
+              <mxPoint x="560" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T16UfMwYr4E7ONNLE4XN-226" edge="1" parent="1" source="3IqrawyuRhJTKmYJm_Wf-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T16UfMwYr4E7ONNLE4XN-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="355" />
+              <mxPoint x="270" y="440" />
+              <mxPoint x="580" y="440" />
+              <mxPoint x="580" y="427" />
+            </Array>
+            <mxPoint x="590" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
